@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274610763020",
+    "firebase_url": "https://butentreprise.firebaseio.com",
+    "project_id": "butentreprise",
+    "storage_bucket": "butentreprise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274610763020:android:8d7db8fa819a218c224529",
+        "android_client_info": {
+          "package_name": "com.example.myentreprise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274610763020-den1l1999ek25ql5151ouaql2fsgimes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD07sIM1eDVLRu2IIQJkJ9DtokizOn6VUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274610763020-den1l1999ek25ql5151ouaql2fsgimes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
