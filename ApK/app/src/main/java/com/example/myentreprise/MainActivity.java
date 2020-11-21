@@ -11,10 +11,11 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     private Button login_btn, registre_btn;
+    //MainActivity,
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.main);
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle("Create Acount");
         actionBar.setDisplayShowCustomEnabled(true);
